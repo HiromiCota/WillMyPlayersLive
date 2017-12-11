@@ -1,0 +1,2 @@
+C:\Users\Hiromi\AppData\Local\Temporary Projects\simulator\bin\Debug\simulator.exe.config
+d:\Documents\Visual Studio 2015\Projects\simulator\simulator\bin\Debug\simulator.exe.config
